@@ -1,0 +1,20 @@
+[
+    {
+        "Organization":"Oakwood The Rajahmundry School",
+        "Stream": "Secondary School Education",
+        "Branch":"CBSE",
+        "CGPA":"9.1 CGPA"
+    },
+    {
+        "Organization": "Prathibha Junior College" ,
+        "Stream":"Intermediate",
+        "Branch":"MPC",
+        "CGPA":"9.3 CGPA"
+    },
+    {
+        "Organization": "Aditya College Of Engineering" ,
+        "Stream":"BTech",
+        "Branch":"Artificial Intelligence and Machine Learning",
+        "CGPA":"7.5 CGPA"
+    }
+]

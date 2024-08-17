@@ -1,0 +1,18 @@
+[
+{
+    "role": "Java Intern",
+    "organisation": "Technical Hub",
+    "startDate": "June, 2023",
+    "endDate": "December , 2023",
+    "experiences": ["Assisted Java Trainer", "Trained 200+ trainees in Live sessions"],
+    "imageSrc": "skills/1200x630wa.png"
+},
+{
+    "role": "C Intern",
+    "organisation": "Technical Hub",
+    "startDate": "Jan, 2023",
+    "endDate": "May, 2023",
+    "experiences": ["Assisted Java Trainer", "Trained 200+ trainees in Live sessions"],
+    "imageSrc": "skills/1200x630wa.png"
+}
+]

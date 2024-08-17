@@ -1,0 +1,26 @@
+[
+{ 
+    "title": "Cross-Platform Mobile Application",
+    "imageSrc": "projects/appdev.png",
+    "description": "Front-End implemented using dart language and flutter frame work Application assets are stored in local storage of the device deployed for both android and ios",
+    "skills": ["Flutter", "Dart", "Hive","Android Studio"],
+    "demo": "",
+    "source": "https://www.github.com"
+},
+{
+    "title": "Augmented Reality Resume",
+    "imageSrc": "projects/arresume.png",
+    "description": "A dynamic Augmented Reality Resume Which any user can experience the Augmented Reality by Uploading their details in the Website",
+    "skills": ["Unity", "React", "Mongodb", "Blender","PhotoShop"],
+    "demo": "",
+    "source": "https://www.github.com"
+},
+{
+    "title": "Realistic Online Multiplayer Game",
+    "imageSrc": "projects/game.png",
+    "description": "This Game is Developed in Unreal Engine which has Multiplayer DeathMatch 5 vs 5 and Team Domination with Realistic Textures and Graphics ",
+    "skills": ["Unreal Engine", "Blender", "Illustrator","Premier Pro"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+}
+]

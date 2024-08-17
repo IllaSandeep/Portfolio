@@ -1,0 +1,74 @@
+@import '../vars.css';
+.container{
+    margin-top: 120px;
+    padding: 50px;
+    padding-top: 30px;
+    border-radius: 15px;
+    position: relative;
+    margin-left: 10%;
+    margin-right: 10%;
+    z-index: 1;
+    background: linear-gradient(90deg, #010647 0% ,#0d7693 100%)
+}
+.title{
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    gap: 210px;
+}
+.eduContent{
+    display: flex;
+    flex-direction: column
+}
+.education{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 20px;
+    padding: 30px;
+    background-image: linear-gradient(90deg,#3a9ef0 0% ,#0b133e);
+    border-radius: 10px;
+}
+.education h1{
+    font-size: 35px;
+    color: var(--color-text);
+    font-weight: 700;
+    letter-spacing: 1.5px;
+}
+.educationItems{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.image{
+    width: 35%;
+    height: 20%;
+    margin-top: 60px;
+}
+.educationItems p{
+    font-size: 30px;
+    color: var(--color-text);
+    font-weight: 100;
+}
+@media screen and (max-width:830px) {
+    .container{
+        background-color: transparent;
+        padding: 10%;
+        margin: 10%;
+    }
+    .content{
+        flex-direction: column;
+    }
+    .image{
+        display: none;
+    }
+    .educationItems{
+        margin-top: 29px;
+    }
+}

@@ -1,0 +1,54 @@
+[
+{
+    "title": "C",
+    "imageSrc": "skills/c.png"
+},
+{
+    "title": "C++",
+    "imageSrc": "skills/cpp.png"
+},
+{
+    "title": "java",
+    "imageSrc": "skills/java.png"
+},
+{
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+},
+{
+    "title": "C#",
+    "imageSrc": "skills/cs.png"
+},
+{
+    "title": "Unity Engine",
+    "imageSrc": "skills/unity.png"
+},
+{
+    "title": "Flutter",
+    "imageSrc": "skills/flutter.png"
+},
+{
+    "title": "Unreal",
+    "imageSrc": "skills/unreal.png"
+},
+{
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+},
+{
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+},
+{
+    "title": "React",
+    "imageSrc": "skills/react.png"
+},
+{
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+},
+{
+    "title": "Machine Learning",
+    "imageSrc": "skills/ml.png"
+}
+]
